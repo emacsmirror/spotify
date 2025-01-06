@@ -7,7 +7,7 @@
 ;; Created: 18 Oct 2012
 ;; Keywords: convenience
 ;; Version: 0.3.4
-;; URL: https://github.com/remvee/spotify-el
+;; URL: https://codeberg.org/rwv/spotify-el
 ;; Package-Requires: ((cl-lib "0.5"))
 
 ;; Contributors:
